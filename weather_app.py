@@ -2,7 +2,7 @@ import tkinter as tk
 import requests
 
 # 🔑 Put your OpenWeather API key here
-API_KEY = "9aa854d25c8af22550cf6ed9bd4d4c28"
+API_KEY = "API KEY"
 
 # 🌤️ Function to get weather data
 def get_weather():
